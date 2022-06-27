@@ -1,0 +1,2 @@
+C:\Santosh\My Documents\Visual Studio 2010\github\optionsoracle-master\OOServerASX\obj\Debug\OOServerASX.csprojAssemblyReference.cache
+C:\Santosh\My Documents\Visual Studio 2010\github\optionsoracle-master\OOServerASX\obj\Debug\OOServerASX.csproj.CoreCompileInputs.cache

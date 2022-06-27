@@ -1,0 +1,6 @@
+C:\Santosh\My Documents\Visual Studio 2010\github\optionsoracle-master\OOMigrationLib\bin\Release\OOMigrationLib.dll
+C:\Santosh\My Documents\Visual Studio 2010\github\optionsoracle-master\OOMigrationLib\bin\Release\OOMigrationLib.pdb
+C:\Santosh\My Documents\Visual Studio 2010\github\optionsoracle-master\OOMigrationLib\obj\Release\OOMigrationLib.csprojAssemblyReference.cache
+C:\Santosh\My Documents\Visual Studio 2010\github\optionsoracle-master\OOMigrationLib\obj\Release\OOMigrationLib.csproj.CoreCompileInputs.cache
+C:\Santosh\My Documents\Visual Studio 2010\github\optionsoracle-master\OOMigrationLib\obj\Release\OOMigrationLib.dll
+C:\Santosh\My Documents\Visual Studio 2010\github\optionsoracle-master\OOMigrationLib\obj\Release\OOMigrationLib.pdb

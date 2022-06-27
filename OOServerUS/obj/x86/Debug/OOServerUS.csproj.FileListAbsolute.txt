@@ -1,0 +1,6 @@
+C:\Santosh\My Documents\Visual Studio 2010\github\optionsoracle-master\OOServerUS\obj\x86\Debug\OOServerUS.csprojAssemblyReference.cache
+C:\Santosh\My Documents\Visual Studio 2010\github\optionsoracle-master\OOServerUS\obj\x86\Debug\OOServerUS.AboutBox.resources
+C:\Santosh\My Documents\Visual Studio 2010\github\optionsoracle-master\OOServerUS\obj\x86\Debug\OOServerUS.ConfigForm.resources
+C:\Santosh\My Documents\Visual Studio 2010\github\optionsoracle-master\OOServerUS\obj\x86\Debug\OOServerUS.WebForm.resources
+C:\Santosh\My Documents\Visual Studio 2010\github\optionsoracle-master\OOServerUS\obj\x86\Debug\OOServerUS.csproj.GenerateResource.cache
+C:\Santosh\My Documents\Visual Studio 2010\github\optionsoracle-master\OOServerUS\obj\x86\Debug\OOServerUS.csproj.CoreCompileInputs.cache

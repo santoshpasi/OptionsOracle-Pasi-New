@@ -1,0 +1,23 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="Current">
+  <PropertyGroup>
+    <PublishUrlHistory>ftp://www.samoasky.com/clickonce/optionsoracle/|http://www.samoasky.com/clickonce/optionsoracle/|http://www.samoasky.com/download/optionsoracle/|C:\|c:\</PublishUrlHistory>
+    <InstallUrlHistory>http://www.samoasky.com/clickonce/optionsoracle/|http://www.samoasky.com/download/optionsoracle/|http://www.samoasky.com/optionsoracle/|http://http.samoasky.com/optionsoracle/</InstallUrlHistory>
+    <SupportUrlHistory>http://www.samoasky.com/download/optionsoracle/optionsoracle.pdf|http://www.samoasky.com|http://www.samoasky.com/</SupportUrlHistory>
+    <UpdateUrlHistory>http://www.samoasky.com/clickonce/optionsoracle/|http://www.samoasky.com/OptionsOracle/</UpdateUrlHistory>
+    <BootstrapperUrlHistory>
+    </BootstrapperUrlHistory>
+    <FallbackCulture>en-US</FallbackCulture>
+    <VerifyUploadedFiles>false</VerifyUploadedFiles>
+    <EnableSecurityDebugging>false</EnableSecurityDebugging>
+    <ProjectView>ProjectFiles</ProjectView>
+    <ErrorReportUrlHistory />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <StartArguments>
+    </StartArguments>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <StartArguments>
+    </StartArguments>
+  </PropertyGroup>
+</Project>

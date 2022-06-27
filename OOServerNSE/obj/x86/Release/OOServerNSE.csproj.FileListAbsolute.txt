@@ -1,0 +1,4 @@
+C:\Santosh\My Documents\Visual Studio 2010\github\optionsoracle-master\OOServerNSE\obj\x86\Release\OOServerNSE.csprojAssemblyReference.cache
+C:\Santosh\My Documents\Visual Studio 2010\github\optionsoracle-master\OOServerNSE\obj\x86\Release\OOServerNSE.WebForm.resources
+C:\Santosh\My Documents\Visual Studio 2010\github\optionsoracle-master\OOServerNSE\obj\x86\Release\OOServerNSE.csproj.GenerateResource.cache
+C:\Santosh\My Documents\Visual Studio 2010\github\optionsoracle-master\OOServerNSE\obj\x86\Release\OOServerNSE.csproj.CoreCompileInputs.cache

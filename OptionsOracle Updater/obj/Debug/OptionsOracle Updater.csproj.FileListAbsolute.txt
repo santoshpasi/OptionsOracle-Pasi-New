@@ -1,0 +1,9 @@
+C:\Santosh\My Documents\Visual Studio 2010\github\optionsoracle-master\OptionsOracle Updater\bin\Debug\OptionsOracle Updater.exe
+C:\Santosh\My Documents\Visual Studio 2010\github\optionsoracle-master\OptionsOracle Updater\bin\Debug\OptionsOracle Updater.pdb
+C:\Santosh\My Documents\Visual Studio 2010\github\optionsoracle-master\OptionsOracle Updater\obj\Debug\OptionsOracle Updater.csprojAssemblyReference.cache
+C:\Santosh\My Documents\Visual Studio 2010\github\optionsoracle-master\OptionsOracle Updater\obj\Debug\OptionsOracle.MainForm.resources
+C:\Santosh\My Documents\Visual Studio 2010\github\optionsoracle-master\OptionsOracle Updater\obj\Debug\OptionsOracle.Properties.Resources.resources
+C:\Santosh\My Documents\Visual Studio 2010\github\optionsoracle-master\OptionsOracle Updater\obj\Debug\OptionsOracle Updater.csproj.GenerateResource.cache
+C:\Santosh\My Documents\Visual Studio 2010\github\optionsoracle-master\OptionsOracle Updater\obj\Debug\OptionsOracle Updater.csproj.CoreCompileInputs.cache
+C:\Santosh\My Documents\Visual Studio 2010\github\optionsoracle-master\OptionsOracle Updater\obj\Debug\OptionsOracle Updater.exe
+C:\Santosh\My Documents\Visual Studio 2010\github\optionsoracle-master\OptionsOracle Updater\obj\Debug\OptionsOracle Updater.pdb
